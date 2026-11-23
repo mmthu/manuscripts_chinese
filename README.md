@@ -1,1 +1,1 @@
-版权私人所有，转载和使用需经授权。
+Some technical solutions for power industry.
